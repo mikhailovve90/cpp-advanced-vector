@@ -1,6 +1,6 @@
-# cpp-advanced-vector
-Финальный проект: улучшенный контейнер вектор
+Vector
 
-Реализация вектора с размещающим оператором new
+An analogue of a vector from the standard library. Uses placement new operator. Explicit dtor call. Faster than SimpleVector.
 
-Так же с методами Emplace, Insert
+C++17 required.
+
